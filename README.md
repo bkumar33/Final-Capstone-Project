@@ -8,4 +8,5 @@ Pnumonia is an infection that inflames the air sacs in one or both of the lungs.
 
 # Approach
 
+Approach I took on this project is building a Deep Learning Model which train on Pneumonia data that was provided by Kaggle competition<https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data> 
 
