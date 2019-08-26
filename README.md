@@ -10,4 +10,4 @@ Pnumonia is an infection that inflames the air sacs in one or both of the lungs.
 
 Approach I took on this project is building a Deep Learning Model which train on Pneumonia data that was provided by Kaggle competition. Link : <https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data> 
 
-The dataset is 3.7 GB in size with over 30k CXR Images of patients. Images are labeled with 3 different classes: Normal, Lung opacity, No lung opacit/not normal. The goal is first identify correctly identify which the images that Pneumina. 
+The dataset is 3.7 GB in size with over 30k CXR Images of patients. Images are labeled with 3 different classes: Normal, Lung opacity, No lung opacit/not normal. The goal is first identify correctly identify which the images that Pneumina. Medical Images can be very complicated and they are in this case. It holds alot of confidential information about patients which is encrypted. 
