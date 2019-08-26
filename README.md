@@ -25,8 +25,7 @@ My model did not score that great because original image was 1024 X 1024. Buildi
 
 ### Next Step 
 
-1. Run models on GPU, EC2 Instances on Amazon Machine Images (AMI) with higher resoltion. 1024 X 1024
-   P2.xlarge or higher
+1. Run models on GPU, EC2 Instances on Amazon Machine Images (AMI) with Image size 1024 X 1024 on P2.xlarge or higher
 2. Improve Accuracy score on correctly predicting the pnemonia 
 3. Once predicted correctly build a boarder around the where possible signs of lung opacity (pnemonia)
 
